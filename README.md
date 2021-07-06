@@ -1,4 +1,9 @@
 # Screenshots
+
+• Telerik Kendo UI for jQuery
+• ASP.NET MVC;
+• jQuery, AJAX, Bootstrap;
+
 ## Web Reports
 
 ### Online Store Stats
