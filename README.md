@@ -52,6 +52,10 @@
 
 ![OrgSelaMysteryShoppers3](https://user-images.githubusercontent.com/50379399/124585909-74a20780-de5e-11eb-90f6-62e7b23c9c2b.png)
 
+### Stores Structure
+
+![OrgSela1](https://user-images.githubusercontent.com/50379399/124600861-dae35600-de6f-11eb-8ae3-3d4fd1d6ea60.png)
+
 ### Business Trip Booking
 
 ![OrgSelaBusinessTripBooking1](https://user-images.githubusercontent.com/50379399/124583263-8a61fd80-de5b-11eb-8c7b-69be211458f6.png)
