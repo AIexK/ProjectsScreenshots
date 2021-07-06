@@ -1,12 +1,13 @@
 # Screenshots
 ## Web Reports
-### Marketing Dashboard
-
-![WebReportsMarketingDashboard](https://user-images.githubusercontent.com/50379399/124580828-2dfdde80-de59-11eb-9c4f-6c29117d5028.jpg)
 
 ### Online Store Stats
 
 ![WebReportsOnlineStore](https://user-images.githubusercontent.com/50379399/124580832-2e967500-de59-11eb-99ce-99b352e52059.jpg)
+
+### Marketing Dashboard
+
+![WebReportsMarketingDashboard](https://user-images.githubusercontent.com/50379399/124580828-2dfdde80-de59-11eb-9c4f-6c29117d5028.jpg)
 
 ## Help
 
